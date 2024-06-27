@@ -1,1 +1,1 @@
-# tecno2_pintarconlavoz
+# tecno2
